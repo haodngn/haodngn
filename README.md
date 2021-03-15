@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. You can find me on [![Facebook][1.1]][1]
+
 
 ## 🔧 My Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
@@ -9,6 +9,7 @@ My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+
 
 ## 💽 What am I listening
 <table width="100%"> 
