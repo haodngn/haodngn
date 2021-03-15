@@ -8,6 +8,15 @@
 - 👻 You can find me on [![Facebook][1.1]][1]
 
 
+<!-- show music -->
+## 💽 What am I listening
+<table width="100%"> 
+  <tr>
+  <td width="100%">
+      
+&nbsp; <br> [![Spotify](https://gitxspotify.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
+
+<!-- show Technologies & Tools -->
 ## 💻 My Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
@@ -17,18 +26,6 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
 
-## 💽 What am I listening
-<table width="100%"> 
-  <tr>
-  <td width="100%">
-      
-&nbsp; <br> [![Spotify](https://gitxspotify.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
-
-  
-
-
-
-<!-- links to social media icons -->
 
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
