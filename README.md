@@ -3,7 +3,7 @@
 - 🤘 My name is Hao Dinh Nguyen.
 - 🎒 I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City.
 - 📱 I’m currently exploring new things in technology.
-- 🥅 Goals: Be better than yesterday
+- 🥅 Goals: Be better than yesterday.
 - 📈 And I try to make my GitHub's profile look better. 
 - 👻 You can find me on [![Facebook][1.1]][1]
 
