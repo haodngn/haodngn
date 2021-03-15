@@ -1,10 +1,7 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. You can find me on [![Facebook][1.1]][1]
-<!---
-### Spotify Playing 🎧
-[![Spotify](https://novatorem.ereshzealous.vercel.app/api/spotify)](https://open.spotify.com/track/4Km5HrUvYTaSUfiSGPJeQR?si=c0890648df0f4aa6)
---->
+
 ## 🔧 My Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
@@ -18,7 +15,7 @@ My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
+&nbsp; <br> [![Spotify](https://gitxspotify-git-master-haodngn.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
 
   </td>
   <td width="50%">
