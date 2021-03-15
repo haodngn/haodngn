@@ -1,10 +1,13 @@
-[![Facebook][1.1]][1]
+# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## 🔧 Technologies & Tools
+My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. You can find me on [![Facebook][1.1]][1]
+
+## 🔧 My Technologies & Tools
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
 
 
 <!-- links to social media icons -->
@@ -15,7 +18,7 @@
 <!-- icons without padding -->
 [1.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
 
-<!-- links to your social media accounts -->
+<!-- social media accounts -->
 [1]: https://www.facebook.com/haodNgn/
 
 <!---
