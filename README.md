@@ -10,7 +10,7 @@ My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
-### Spotify Playing
+## 💽 What am I listening
 <table width="100%"> 
   <tr>
   <td width="100%">
