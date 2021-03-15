@@ -2,7 +2,7 @@
 My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. And I try to make my GitHub's profile look better. You can find me on [![Facebook][1.1]][1]
 
 
-## 🔧 My Technologies & Tools
+## 💻 My Technologies & Tools
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=2bbc8a)
