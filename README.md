@@ -15,7 +15,7 @@ My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://gitxspotify-git-master-haodngn.vercel.app.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
+&nbsp; <br> [![Spotify](https://gitxspotify.vercel.app/api/spotify)](https://open.spotify.com/user/y9n3c0jb4v41xjdnh6y6epytf)
 
   </td>
   <td width="50%">
