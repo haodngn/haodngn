@@ -13,6 +13,18 @@ My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 
+### Spotify Playing
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+      
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/haoDngn)
+
+  </td>
+  <td width="50%">
+
+
+
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
