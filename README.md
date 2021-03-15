@@ -1,4 +1,4 @@
-[![Facebook][1.2]][1]
+[![Facebook][1.1]][1]
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a)
