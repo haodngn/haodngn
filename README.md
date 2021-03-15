@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. You can find me on [![Facebook][1.1]][1]
+My name is Hao Dinh Nguyen and I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City. And I try to make my GitHub's profile look better. You can find me on [![Facebook][1.1]][1]
 
 
 ## 🔧 My Technologies & Tools
