@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# WAZZUP! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🤘 My name is Hao Dinh Nguyen.
 - 🎒 I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City.
