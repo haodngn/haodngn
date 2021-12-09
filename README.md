@@ -26,6 +26,7 @@
 ![](https://img.shields.io/badge/SQL-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Services-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Services-AmazonAWS-informational?style=flat&logo=amazonaws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Services-Agora.io-informational?style=flat&logo=airplayvideo&logoColor=white&color=2bbc8a)
 
 
 <!-- show music -->
