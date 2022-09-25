@@ -1,7 +1,7 @@
 # WAZZUP! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🤘 My name is Hao Dinh Nguyen.
-- 🎒 I am a sophomore studying Software Engineering at FPT University in Ho Chi Minh City.
+- 🎒 I have recently graduated in Software Engineering at FPT University.
 - 📱 I am currently exploring new things in technology.
 - 🥅 Goals: Be better than yesterday.
 - 📈 And I try to make my GitHub's profile look better. 
